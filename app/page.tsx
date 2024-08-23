@@ -55,7 +55,7 @@ export default async function Page({
     <Image
     src="/hero-mobile.png"
     width={560}
-    height={620}
+    height={621}
     className="hidden md:hidden"
     alt='mobile img'
     />
